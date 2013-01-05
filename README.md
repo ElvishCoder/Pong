@@ -1,3 +1,3 @@
-h2. PONG
+## PONG
 
 Basic XBOX 360 tutorial game demo.
